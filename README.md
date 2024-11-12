@@ -5,3 +5,5 @@
 Заточено под Edge computing облака Yandex.Cloud (russian AWS-like cloud platform).
 
 > https://pet.wavycat.ru
+
+![Diagram](assets/diagram.png)
